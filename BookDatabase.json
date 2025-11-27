@@ -1,0 +1,344 @@
+{
+  "libros": [
+    {
+      "titulo": "La Sombra del Imperio",
+      "autor": "Elena Rivas",
+      "año": 2014,
+      "ambientacion": "Roma antigua",
+      "sinopsis": "Una joven patricia descubre una conspiración que amenaza al Senado mientras lucha por proteger a su familia."
+    },
+    {
+      "titulo": "El Último Samurái de Kyoto",
+      "autor": "Hiro Tanaka",
+      "año": 2018,
+      "ambientacion": "Japón, siglo XIX",
+      "sinopsis": "Un guerrero samurái intenta preservar su linaje ante la modernización que impone el nuevo gobierno."
+    },
+    {
+      "titulo": "Hijos del Desierto",
+      "autor": "María del Sol Vargas",
+      "año": 2011,
+      "ambientacion": "Persia antigua",
+      "sinopsis": "La historia de dos hermanos que se separan tras una invasión y buscan reunirse en medio de un imperio en expansión."
+    },
+    {
+      "titulo": "La Corona y la Rosa",
+      "autor": "Alfredo Noguera",
+      "año": 2020,
+      "ambientacion": "Inglaterra, Guerra de las Dos Rosas",
+      "sinopsis": "Una joven noble se ve envuelta en las intrigas políticas que decidirán el futuro del reino."
+    },
+    {
+      "titulo": "El Escriba del Faraón",
+      "autor": "Nadia Karim",
+      "año": 2009,
+      "ambientacion": "Egipto antiguo",
+      "sinopsis": "Un escriba descubre un secreto que puede alterar la sucesión del trono y pone en riesgo su vida."
+    },
+    {
+      "titulo": "La Rebelión de la Seda",
+      "autor": "Zhang Li Wei",
+      "año": 2017,
+      "ambientacion": "China, dinastía Han",
+      "sinopsis": "Una comerciante de la Ruta de la Seda se involucra en una rebelión que cambiará el destino del imperio."
+    },
+    {
+      "titulo": "El Pintor de la Corte",
+      "autor": "Luis Carreño",
+      "año": 2005,
+      "ambientacion": "España, Siglo de Oro",
+      "sinopsis": "Un pintor lucha por obtener el favor real mientras descubre una trama contra la corona."
+    },
+    {
+      "titulo": "La Fortaleza del Norte",
+      "autor": "Astrid Holm",
+      "año": 2019,
+      "ambientacion": "Escandinavia vikinga",
+      "sinopsis": "Una guerrera vikinga intenta defender su clan ante la invasión de un ejército rival."
+    },
+    {
+      "titulo": "Cartas desde Constantinopla",
+      "autor": "Tomas Ledesma",
+      "año": 2012,
+      "ambientacion": "Imperio Bizantino",
+      "sinopsis": "Un diplomático narra la decadencia de la gran ciudad mientras intenta evitar una guerra."
+    },
+    {
+      "titulo": "El Mapa del Conquistador",
+      "autor": "Rosa Valverde",
+      "año": 2016,
+      "ambientacion": "América, siglo XVI",
+      "sinopsis": "Un cartógrafo español se une a una expedición que descubre civilizaciones desconocidas."
+    },
+
+    {
+      "titulo": "La Llama de Atenas",
+      "autor": "Clara Manzano",
+      "año": 2010,
+      "ambientacion": "Grecia clásica",
+      "sinopsis": "Una sacerdotisa enfrenta el conflicto entre ciencia y religión en una Atenas convulsionada."
+    },
+    {
+      "titulo": "Sangre de los Andes",
+      "autor": "Ernesto Poma",
+      "año": 2021,
+      "ambientacion": "Imperio Inca",
+      "sinopsis": "Un mensajero inca debe evitar un levantamiento que podría destruir su civilización."
+    },
+    {
+      "titulo": "El Confín del Mundo",
+      "autor": "Joanna Kirk",
+      "año": 2015,
+      "ambientacion": "Escocia medieval",
+      "sinopsis": "Un clan escocés lucha por su libertad frente al avance inglés."
+    },
+    {
+      "titulo": "La Dama de París",
+      "autor": "Gabrielle Morin",
+      "año": 2008,
+      "ambientacion": "Francia, siglo XIII",
+      "sinopsis": "Una mujer noble se enfrenta a intrigas palaciegas durante la construcción de Notre Dame."
+    },
+    {
+      "titulo": "El Puente del Zar",
+      "autor": "Vladimir Orlov",
+      "año": 2013,
+      "ambientacion": "Rusia zarista",
+      "sinopsis": "Un ingeniero es acusado de traición mientras construye un puente clave para el imperio."
+    },
+    {
+      "titulo": "La Guerra del Águila",
+      "autor": "Samuel Rojas",
+      "año": 2011,
+      "ambientacion": "Imperio Mexica",
+      "sinopsis": "Un joven guerrero debe elegir entre su deber y su amor prohibido en vísperas de la llegada europea."
+    },
+    {
+      "titulo": "El Pergamino Prohibido",
+      "autor": "Héctor Medina",
+      "año": 2014,
+      "ambientacion": "Mesopotamia",
+      "sinopsis": "Un escriba descubre un texto antiguo que revela secretos de la creación del imperio."
+    },
+    {
+      "titulo": "La Senda de los Cruzados",
+      "autor": "Bruno Chaves",
+      "año": 2018,
+      "ambientacion": "Cruzadas medievales",
+      "sinopsis": "Un joven caballero emprende un viaje que pondrá a prueba su fe y su lealtad."
+    },
+    {
+      "titulo": "La Hija del Sultán",
+      "autor": "Amina El-Fassi",
+      "año": 2020,
+      "ambientacion": "Imperio Otomano",
+      "sinopsis": "La hija del sultán se involucra en una lucha por el poder dentro del harén imperial."
+    },
+    {
+      "titulo": "El Último Guerrero Maya",
+      "autor": "Carlos Quintana",
+      "año": 2007,
+      "ambientacion": "Civilización maya",
+      "sinopsis": "Un guerrero lucha por salvar su ciudad de una invasión rival."
+    },
+
+    {
+      "titulo": "El Archivo de los Médici",
+      "autor": "Giancarlo Moretti",
+      "año": 2016,
+      "ambientacion": "Florencia renacentista",
+      "sinopsis": "Un archivista descubre documentos que podrían destruir a la familia más poderosa de Florencia."
+    },
+    {
+      "titulo": "La Espada del Norte",
+      "autor": "Erik Johansson",
+      "año": 2013,
+      "ambientacion": "Edad del Hierro escandinava",
+      "sinopsis": "Un herrero se convierte en héroe al liderar a su pueblo contra invasores extranjeros."
+    },
+    {
+      "titulo": "El Médico de Córdoba",
+      "autor": "Josep Vidal",
+      "año": 2019,
+      "ambientacion": "Al-Ándalus",
+      "sinopsis": "Un médico judío debe navegar tensiones religiosas y políticas para salvar a su familia."
+    },
+    {
+      "titulo": "La Ruta de los Elefantes",
+      "autor": "Katrina Müller",
+      "año": 2012,
+      "ambientacion": "Imperio cartaginés",
+      "sinopsis": "La historia de una joven esclava que acompaña a Aníbal en su marcha hacia Roma."
+    },
+    {
+      "titulo": "El Halcón del Nilo",
+      "autor": "Omar Sharif",
+      "año": 2011,
+      "ambientacion": "Egipto ptolemaico",
+      "sinopsis": "Un capitán debe elegir entre su lealtad al faraón y su amor por una espía romana."
+    },
+    {
+      "titulo": "La Librera de Lisboa",
+      "autor": "Beatriz Santos",
+      "año": 2022,
+      "ambientacion": "Portugal, siglo XVI",
+      "sinopsis": "Una joven librera se ve envuelta en una conspiración durante la expansión marítima."
+    },
+    {
+      "titulo": "El Guerrero de Samarkanda",
+      "autor": "Iskandar Rakhim",
+      "año": 2015,
+      "ambientacion": "Asia Central, Imperio de Tamerlán",
+      "sinopsis": "Un soldado vive la gloria y el terror del imperio más temido de su época."
+    },
+    {
+      "titulo": "La Ciudad de Jade",
+      "autor": "Ling Xiu",
+      "año": 2006,
+      "ambientacion": "China, dinastía Tang",
+      "sinopsis": "Una joven poeta lucha por vivir libre en un mundo dominado por la política imperial."
+    },
+    {
+      "titulo": "Una Canción para Jerusalén",
+      "autor": "Doron Halevi",
+      "año": 2017,
+      "ambientacion": "Reino de Judea",
+      "sinopsis": "Tres personajes de diferentes culturas narran el destino de la ciudad santa."
+    },
+    {
+      "titulo": "El Fuerte de la Patagonia",
+      "autor": "Rodolfo Márquez",
+      "año": 2021,
+      "ambientacion": "Patagonia, siglo XIX",
+      "sinopsis": "Un oficial argentino debe enfrentar tensiones con pueblos originarios y su propio pasado."
+    },
+
+    {
+      "titulo": "La Novena Legión",
+      "autor": "Marcus Trent",
+      "año": 2004,
+      "ambientacion": "Britania romana",
+      "sinopsis": "La historia de un centurión que intenta evitar la desaparición de la legendaria legión."
+    },
+    {
+      "titulo": "El Reino del Mar",
+      "autor": "Sofía Andreu",
+      "año": 2018,
+      "ambientacion": "Fenicia antigua",
+      "sinopsis": "Una comerciante fenicia enfrenta traiciones mientras expande su influencia en el Mediterráneo."
+    },
+    {
+      "titulo": "La Doncella de Kiev",
+      "autor": "Irina Volkov",
+      "año": 2010,
+      "ambientacion": "Rus de Kiev",
+      "sinopsis": "Una noble debe defender su ciudad ante una inminente invasión bárbara."
+    },
+    {
+      "titulo": "El Misterio de Babilonia",
+      "autor": "Yusef Hadi",
+      "año": 2019,
+      "ambientacion": "Babilonia",
+      "sinopsis": "Un astrónomo descubre un complot que involucra a los sacerdotes del templo."
+    },
+    {
+      "titulo": "La Forja del Samurái",
+      "autor": "Takumi Sato",
+      "año": 2014,
+      "ambientacion": "Japón feudal",
+      "sinopsis": "Un joven campesino asciende en la jerarquía militar tras un acto heroico."
+    },
+    {
+      "titulo": "El Manto de Cleopatra",
+      "autor": "Adriana Bretti",
+      "año": 2011,
+      "ambientacion": "Egipto, época romana",
+      "sinopsis": "Una esclava intenta sobrevivir a la caída de la última reina del Nilo."
+    },
+    {
+      "titulo": "La Llave del Kremlin",
+      "autor": "Sergey Ivanov",
+      "año": 2018,
+      "ambientacion": "Rusia medieval",
+      "sinopsis": "Un guardia del Kremlin descubre una conspiración para eliminar al príncipe."
+    },
+    {
+      "titulo": "Los Hijos de la Tundra",
+      "autor": "Anja Petrov",
+      "año": 2022,
+      "ambientacion": "Siberia antigua",
+      "sinopsis": "Una tribu nómada debe migrar para sobrevivir a un invierno devastador."
+    },
+    {
+      "titulo": "El Mercader de Venecia Antigua",
+      "autor": "Gian Paolo Rizzi",
+      "año": 2009,
+      "ambientacion": "Venecia medieval",
+      "sinopsis": "Un mercader se enfrenta a rivales que buscan arruinarlo para controlar las rutas comerciales."
+    },
+
+    {
+      "titulo": "Caminos de Samaria",
+      "autor": "Miriam Cohen",
+      "año": 2020,
+      "ambientacion": "Imperio Romano de Oriente",
+      "sinopsis": "Un médico viaja por el desierto mientras desentraña un complot religioso."
+    },
+    {
+      "titulo": "La Torre de los Vientos",
+      "autor": "Alejandro Mármol",
+      "año": 2015,
+      "ambientacion": "Atenas helenística",
+      "sinopsis": "Un ingeniero lucha por terminar una obra monumental mientras la ciudad entra en crisis."
+    },
+    {
+      "titulo": "El Guerrero del Nilo Azul",
+      "autor": "Dawit Kassa",
+      "año": 2017,
+      "ambientacion": "Reino de Aksum",
+      "sinopsis": "Un joven príncipe debe defender su reino de una invasión extranjera."
+    },
+    {
+      "titulo": "La Dama del Danubio",
+      "autor": "Helena Novák",
+      "año": 2008,
+      "ambientacion": "Imperio Austrohúngaro",
+      "sinopsis": "Una mujer aristócrata desafía las normas sociales tras descubrir una red de espionaje."
+    },
+    {
+      "titulo": "El León de Cartago",
+      "autor": "Julio Acosta",
+      "año": 2013,
+      "ambientacion": "Cartago",
+      "sinopsis": "Un guerrero cartaginés lucha por defender la ciudad en la Segunda Guerra Púnica."
+    },
+    {
+      "titulo": "Los Muros de Jerusalén",
+      "autor": "Daniel Baruch",
+      "año": 2019,
+      "ambientacion": "Reino de Israel",
+      "sinopsis": "Un arquitecto intenta reforzar las murallas mientras la ciudad se divide políticamente."
+    },
+    {
+      "titulo": "La Hija del Mercader de Ámsterdam",
+      "autor": "Franziska De Vries",
+      "año": 2021,
+      "ambientacion": "Países Bajos, siglo XVII",
+      "sinopsis": "Una joven comerciante lucha por mantener la fortuna familiar durante el auge mercantil."
+    },
+    {
+      "titulo": "El Guerrero de los Alpes",
+      "autor": "Luca Bernardi",
+      "año": 2010,
+      "ambientacion": "Reino lombardo",
+      "sinopsis": "Un guerrero defiende su valle montañoso de invasores francos."
+    },
+    {
+      "titulo": "El Estandarte de la Reina Roja",
+      "autor": "Patricia Gálvez",
+      "año": 2016,
+      "ambientacion": "Castilla medieval",
+      "sinopsis": "La historia de una mujer que, tras perder todo, se convierte en la estrella de la resistencia campesina."
+    }
+  ]
+}
