@@ -1,0 +1,346 @@
+[
+  [
+  {
+    "posicion": 1,
+    "titulo": "Vera, una historia de amor",
+    "isbn": "978-84-08-31161-4",
+    "sinopsis": "Cuando el deseo también es el peligro. Vera ha seguido siempre las reglas: …", 
+    "autor": "Val, Juan del"
+  },
+  {
+    "posicion": 2,
+    "titulo": "Ande, ande, ande, la Mari Morena",
+    "isbn": "978-84-08-31070-9",
+    "sinopsis": "Porque la Navidad no es lo que tenemos, sino a quien tenemos. …", 
+    "autor": "Maxwell, Megan"
+  },
+  {
+    "posicion": 3,
+    "titulo": "Los tres mundos (Serie Julio César 3)",
+    "isbn": "978-84-666-8270-1",
+    "sinopsis": "UN HOMBRE. TRES MUNDOS. EL PRECIO DE LA GLORIA NUNCA FUE TAN ALTO. …", 
+    "autor": "Posteguillo, Santiago"
+  },
+  {
+    "posicion": 4,
+    "titulo": "La península de las casas vacías",
+    "isbn": "978-84-19942-31-9",
+    "sinopsis": "UNA NOVELA TOTAL SOBRE LA GUERRA CIVIL ESPAÑOLA EN CLAVE DE REALISMO MÁGICO. …", 
+    "autor": "Uclés, David"
+  },
+  {
+    "posicion": 5,
+    "titulo": "El último secreto",
+    "isbn": "978-84-08-30686-3",
+    "sinopsis": "Dan Brown, autor de El código Da Vinci, regresa con una nueva y trepidante aventura…", 
+    "autor": "Brown, Dan"
+  },
+  {
+    "posicion": 6,
+    "titulo": "La chica del lago",
+    "isbn": "978-84-666-8273-2",
+    "sinopsis": "Si quieres descubrir la verdad, tendrás que sumergirte en el pasado. …", 
+    "autor": "Santiago, Mikel"
+  },
+  {
+    "posicion": 7,
+    "titulo": "Cuando el viento hable",
+    "isbn": "978-84-08-31163-8",
+    "sinopsis": "Un país en silencio. Un misterio que aún respira. Un drama familiar de posguerra. …", 
+    "autor": null
+  },
+  {
+    "posicion": 8,
+    "titulo": "Astérix en Lusitania",
+    "isbn": "978-84-696-4432-4",
+    "sinopsis": "¡Este año Astérix y Obélix se van a Portugal! …", 
+    "autor": "Goscinny, René"
+  },
+  {
+    "posicion": 9,
+    "titulo": "Comerás flores",
+    "isbn": "978-84-10178-59-5",
+    "sinopsis": "Una novela que indaga en los espejismos de las relaciones, las dificultades del duelo…", 
+    "autor": null
+  },
+  {
+    "posicion": 10,
+    "titulo": "Policán 13: Érase una vez Joselito",
+    "isbn": "978-84-1055-206-7",
+    "sinopsis": "Los cuquialiens del espacio se acercan a la Tierra con muy malas intenciones…", 
+    "autor": null
+  },
+  {
+    "posicion": 11,
+    "titulo": "El susurro del fuego",
+    "isbn": "978-84-9129-979-0",
+    "sinopsis": "EMOTIVA - INQUIETANTE - ENIGMÁTICA - PODEROSA ¿QUÉ NOS HA DE SUCEDER PARA ABRIR LOS OJOS? MÁS DE 2.500.000 EJEMPLARES VENDIDOS Un crimen sin respuesta. Dos hermanos que ansían celebrar la vida. ¿Qué le sucedió a Laura Ardoz? Tenerife, 2019. Mario y Laura Ardoz, hermanos mellizos, visitan las islas...",
+    "autor": "Castillo, Javier"
+  },
+  {
+    "posicion": 12,
+    "titulo": "La sociedad del cansancio",
+    "isbn": "978-84-254-5144-7",
+    "sinopsis": "Byung-Chul Han detecta que en las últimas décadas se ha producido en nuestras sociedades occidentales avanzadas un cambio de paradigma ...",
+    "autor": "Han, Byung-Chul"
+  },
+  {
+    "posicion": 13,
+    "titulo": "El círculo de los días",
+    "isbn": "978-84-01-03681-1",
+    "sinopsis": "Ken Follett se adentra en su épica nueva novela en uno de los mayores misterios de la historia: la construcción de Stonehenge. ...",
+    "autor": null
+  },
+  {
+    "posicion": 14,
+    "titulo": "Los Futbolísimos 28: El misterio del escape room infinito",
+    "isbn": "978-84-1055-186-2",
+    "sinopsis": "La cuenta atrás ha comenzado. El escape room más grande del mundo se acaba de inaugurar... ¡Un nuevo misterio para los...\"",
+    "autor": null
+  },
+  {
+    "posicion": 15,
+    "titulo": "Sobre Dios",
+    "isbn": "978-84-493-4454-1",
+    "sinopsis": "De la mano Byung-Chul Han, el filósofo contemporáneo más leído ... una reflexión brillante y serena ...\"",
+    "autor": "Han, Byung-Chul"
+  },
+  {
+    "posicion": 16,
+    "titulo": "Misión en París (Las aventuras del capitán Alatriste 8). Las Aventuras del Capitán Alatriste 8",
+    "isbn": "978-84-204-7944-6",
+    "sinopsis": "VUELVE EL CAPITÁN ALATRISTE ...\"",
+    "autor": "Pérez-Reverte, Arturo"
+  },
+  {
+    "posicion": 17,
+    "titulo": "Cuando ellos se van",
+    "isbn": "978-84-01-03707-8",
+    "sinopsis": "El libro más emotivo de Julia Navarro es un homenaje lleno de amor y ternura por los animales. ...\"",
+    "autor": "Navarro, Julia"
+  },
+  {
+    "posicion": 18,
+    "titulo": "La asistenta",
+    "isbn": "978-84-9129-428-3",
+    "sinopsis": "EL LIBRO DEL QUE TODO EL MUNDO HABLA El thriller psicológico más adictivo y viral de Freida McFadden. ...\"",
+    "autor": "McFadden, Freida"
+  },
+  {
+    "posicion": 19,
+    "titulo": "La península de las casas vacías",
+    "isbn": "979-13-87688-23-3",
+    "sinopsis": "UNA NOVELA TOTAL SOBRE LA GUERRA CIVIL ESPAÑOLA EN CLAVE DE REALISMO MÁGICO ...\"",
+    "autor": null
+  },
+  {
+    "posicion": 20,
+    "titulo": "Taco Calendario del Corazón de Jesús - Clásico - 2026",
+    "isbn": "978-84-271-4976-2",
+    "sinopsis": "El Taco Calendario del Corazón de Jesús cumple 140 años ...\"",
+    "autor": null
+  },
+  {
+    "posicion": 21,
+    "titulo": "Invisible",
+    "isbn": "978-84-16588-43-5",
+    "sinopsis": "Emotiva, conmovedora, diferente... Invisible narra, a través de los ojos de un niño, una historia que podría ser la de cualquiera de nosotros. …",
+    "autor": "Moreno, Eloy"
+  },
+  {
+    "posicion": 22,
+    "titulo": "El viaje de mi padre",
+    "isbn": "978-84-204-7927-9",
+    "sinopsis": "UN VIAJE A LA MEMORIA DE LA GUERRA CIVIL ESPAÑOLA, POR UNO DE LOS AUTORES FUNDAMENTALES...\"",
+    "autor": "Llamazares, Julio"
+  },
+  {
+    "posicion": 23,
+    "titulo": "El profeta",
+    "isbn": "978-84-666-8277-0",
+    "sinopsis": "LA GRAN NOVELA DE JESÚS DE NAZARET La historia más apasionante de todos los tiempos...\"",
+    "autor": null
+  },
+  {
+    "posicion": 24,
+    "titulo": "La muy catastrófica visita al zoo",
+    "isbn": "978-84-10496-00-2",
+    "sinopsis": "Vuelve Joël Dicker, fenómeno global con veintidós millones de lectores...\"",
+    "autor": "Dicker, Joël"
+  },
+  {
+    "posicion": 25,
+    "titulo": "Un amor de diciembre",
+    "isbn": "978-84-270-5447-9",
+    "sinopsis": "Tu lectura perfecta para el mes de diciembre: un capítulo al día hasta el desenlace...\"",
+    "autor": null
+  },
+  {
+    "posicion": 26,
+    "titulo": "Amigo invisible. UN CORAZON POR NAVIDAD 2",
+    "isbn": "978-84-19621-76-4",
+    "sinopsis": "Una Navidad para cambiarlo todo ¿Sabes ese momento en el que dudas de si estás tomando las decisiones acertadas?\"",
+    "autor": null
+  },
+  {
+    "posicion": 27,
+    "titulo": "Mil cosas",
+    "isbn": "978-84-339-4791-8",
+    "sinopsis": "Un retrato generacional. Una reflexión sobre cómo seguimos adelante cuando todo nos sobrepasa. ...\"",
+    "autor": null
+  },
+  {
+    "posicion": 28,
+    "titulo": "La mala costumbre (edición especial)",
+    "isbn": "978-84-322-4907-5",
+    "sinopsis": "Una novela que es mucho más que un fenómeno literario. Una voz que se queda a vivir en quienes la leen...\"",
+    "autor": null
+  },
+  {
+    "posicion": 29,
+    "titulo": "La mala costumbre",
+    "isbn": "978-84-322-4212-0",
+    "sinopsis": "Una novela que es mucho más que un fenómeno literario. Una voz que se queda a vivir en quienes la leen...\"",
+    "autor": null
+  },
+  {
+    "posicion": 30,
+    "titulo": "Dragon Ball Super nº 23",
+    "isbn": "979-13-87780-74-6",
+    "sinopsis": "El universo de Akira Toriyama no se acaba.¡¡Cell Max, el androide más poderoso, se ha activado!! ...\"",
+    "autor": null
+  },
+  {
+    "posicion": 31,
+    "titulo": "Cuaderno de invierno. Vol. 6",
+    "isbn": "978-84-10323-98-8",
+    "sinopsis": "El primer cuaderno de actividades para adultos, también en invierno. Actividades que no sirven para pasar el tiempo, sino para aprovecharlo. En casa, al calor de la chimenea o de la batamanta. El invierno es la estación del recogimiento. ...",
+    "autor": "López Valle, Daniel; Fortúnez, Cristóbal"
+  },
+  {
+    "posicion": 32,
+    "titulo": "CALENDARI DELS PAGESOS",
+    "isbn": "979-13-87708-22-1",
+    "sinopsis": "",
+    "autor": null
+  },
+  {
+    "posicion": 33,
+    "titulo": "BLACKSAD STORIES WEEKLY. BLACKSAD STORIES",
+    "isbn": "978-84-679-7862-9",
+    "sinopsis": "TODO UN ACONTECIMIENTO: ¡EL PRIMER SPIN-OFF DE BLACKSAD EN EL 25 ANIVERSARIO DE LA SERIE! ...",
+    "autor": null
+  },
+  {
+    "posicion": 34,
+    "titulo": "Esto no existe. Las denuncias falsas en violencia de género",
+    "isbn": "979-13-87600-09-9",
+    "sinopsis": "Una mirada crítica a la ley contra la Violencia de Género. ...",
+    "autor": null
+  },
+  {
+    "posicion": 35,
+    "titulo": "Tango satánico",
+    "isbn": "978-84-16748-67-9",
+    "sinopsis": "Poco después de la caída del régimen comunista, en una remota región rural de Hungría ...",
+    "autor": null
+  },
+  {
+    "posicion": 36,
+    "titulo": "Una mujer a quien amar",
+    "isbn": "979-13-87605-04-9",
+    "sinopsis": "Este libro tiene dos protagonistas, Olga y el autor. ...",
+    "autor": null
+  },
+  {
+    "posicion": 37,
+    "titulo": "Islas de la Ascuaoscura. Una novela del Cosmere",
+    "isbn": "978-84-19260-57-4",
+    "sinopsis": "Brandon Sanderson, el gran autor de fantasía del siglo XXI ...",
+    "autor": "Sanderson, Brandon"
+  },
+  {
+    "posicion": 38,
+    "titulo": "Pan de ángeles",
+    "isbn": "978-84-264-3295-7",
+    "sinopsis": "Las radiantes memorias definitivas de uno de los más grandes iconos de nuestro tiempo ...",
+    "autor": null
+  },
+  {
+    "posicion": 39,
+    "titulo": "El hombre en busca de sentido. HERDER",
+    "isbn": "978-84-254-3202-6",
+    "sinopsis": "Nueva traducciónEl hombre en busca de sentido ...",
+    "autor": "Frankl, Viktor E."
+  },
+  {
+    "posicion": 40,
+    "titulo": "El tesoro del convento caído",
+    "isbn": "978-84-670-7889-3",
+    "sinopsis": "Peridis firma la novela de su vida. ...",
+    "autor": null
+  },
+  {
+    "posicion": 41,
+    "titulo": "La caza del ejecutor",
+    "isbn": "978-84-670-7265-5",
+    "sinopsis": "VUELVE EL MAESTRO DE LA NOVELA DE ESPÍAS.…",
+    "autor": "Vallés, Vicente"
+  },
+  {
+    "posicion": 42,
+    "titulo": "Belladona",
+    "isbn": "979-13-87596-21-7",
+    "sinopsis": "Connelly nos presenta a su nuevo detective: Stilwell. …",
+    "autor": null
+  },
+  {
+    "posicion": 43,
+    "titulo": "Hija de la venganza",
+    "isbn": "978-84-10323-81-0",
+    "sinopsis": "EL ESPERADO REGRESO DEL AUTOR DE BLACKWATER …",
+    "autor": "McDowell, Michael"
+  },
+  {
+    "posicion": 44,
+    "titulo": "El secreto de la asistenta (La asistenta 2)",
+    "isbn": "978-84-19835-73-4",
+    "sinopsis": "LA ASISTENTA NO HA ACABADO DE LIMPIAR... …",
+    "autor": "McFadden, Freida"
+  },
+  {
+    "posicion": 45,
+    "titulo": "Amanda Black 1 - Una herencia peligrosa",
+    "isbn": "978-84-17921-37-8",
+    "sinopsis": "«Amanda Black» es la nueva serie ... con un ritmo frenético. …",
+    "autor": "Gómez‑Jurado, Juan; Montes, Bárbara"
+  },
+  {
+    "posicion": 46,
+    "titulo": "Presentes",
+    "isbn": "978-84-204-7910-1",
+    "sinopsis": "PREMIO NACIONAL DE NARRATIVA 2025 «Demuestra que la literatura puede ser un acto ...»",
+    "autor": null
+  },
+  {
+    "posicion": 47,
+    "titulo": "Cocina para todos. Las 560 recetas que nunca fallan",
+    "isbn": "978-84-08-30880-5",
+    "sinopsis": "El nuevo recetario de Arguiñano, que nunca defrauda. …",
+    "autor": "Arguiñano, Karlos"
+  },
+  {
+    "posicion": 48,
+    "titulo": "El disturbio eterno",
+    "isbn": "978-84-10352-33-9",
+    "sinopsis": "Cada nuevo cómic de Joe Sacco es un acontecimiento editorial: ...",
+    "autor": null
+  },
+  {
+    "posicion": 49,
+    "titulo": "Gatito. Mi primer libro cinemágico",
+    "isbn": "979-12-5957-647-7",
+    "sinopsis": "¡NO CREERÁS LO QUE VEN TUS OJOS! ...",
+    "autor": null
+  }
+]
